@@ -1,0 +1,39 @@
+{
+    "header_greeting": "Hello",
+    "welcome_back": "Welcome Back",
+    "header_search_placeholder": "Search",
+    "login": "Login",
+
+    "banner_text_1": "Make Your First Order and Get ",
+    "banner_text_2": "50% Off",
+    "banner_text_3": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without.",
+    "banner_text_button": "Order Now",
+
+    "ourmenu": "Our Menu",
+    "pizza": "Pizza",
+    "burger": "Burger",
+    "fries": "Fries",
+    "pack": "Pack",
+    "seeall": "See All",
+
+    "pizza_with_peperoni": "Pizza with Peperoni",
+    "pizza_with_mushroom": "Pizza with Mushroom",
+    "pizza_with_cheese": "Pizza with Cheese",
+    "chicken_wings": "Chicken wings",
+    "time": "minutes",
+
+
+
+    "ordermenu": "Order Menu",
+    "totalprice": "Total Price",
+    "checkout": "Checkout",
+
+
+    "contactus": "Contact Us",
+    
+    "logout": "Log Out",
+
+    "your_wallet": "Your Wallet",
+    "remove_card": "Remove card",
+    "add_card": "Add new card"
+}
