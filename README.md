@@ -7,8 +7,6 @@ An application for ordering delicious pizzas online.
 
 Follow these instructions to set up and run the project on your local machine.
 
-# Installation
-
 Clone the repository:
 
     git clone https://github.com/qwegod/pizzashop
